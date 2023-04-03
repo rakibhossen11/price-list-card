@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Fitness World",
+      "location": "123 Main St",
+      "features": ["Free weights", "Cardio equipment", "Group fitness classes"],
+      "price": 50
+    },
+    {
+      "id": 2,
+      "name": "Gold's Gym",
+      "location": "456 Broadway",
+      "features": ["Strength training equipment", "Personal training", "Sauna"],
+      "price": 80
+    },
+    {
+      "id": 3,
+      "name": "24 Hour Fitness",
+      "location": "789 Elm St",
+      "features": ["Indoor pool", "Basketball court", "Yoga studio"],
+      "price": 120
+    }
+  ]
+  
